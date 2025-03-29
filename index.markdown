@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: 欢迎来到我的数据可视化网站
 ---
+
+这是我为数据可视化课程搭建的网站。
+
+后续我将会在这里分享一些图表、故事和可交互的数据页面，欢迎关注 👋
